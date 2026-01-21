@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "podcastName": "Episódio 1",
+        "description": "Descrição do episódio 1"
+    },
+    {
+        "id": 2,
+        "podcastName": "Flow",
+        "description": "Descrição do episódio 1"
+    }
+]
